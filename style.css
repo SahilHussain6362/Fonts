@@ -1,0 +1,74 @@
+@font-face {
+    font-family: Cabinet_Grotesk;
+    src: url(Fonts/Cabinet\ Grotesk/CabinetGrotesk-Regular.woff);
+}
+
+@font-face {
+    font-family: Cabinet_Grotesk-Bold;
+    src: url(Fonts/Cabinet\ Grotesk/CabinetGrotesk-Bold.woff);
+}
+
+body {
+    background: red;
+}
+
+@font-face {
+    font-family: Clash_Display;
+    src: url(Fonts/Clash\ Display/ClashDisplay-Regular.woff);
+}
+
+@font-face {
+    font-family: Clash_Display-Bold;
+    src: url(Fonts/Clash\ Display/ClashDisplay-Bold.woff);
+}
+
+@font-face {
+    font-family: Epilogue;
+    src: url(Fonts/Epilogue/Epilogue-Regular.ttf );
+}
+
+@font-face {
+    font-family: Epilogue-Bold;
+    src: url(Fonts/Epilogue/Epilogue-Bold.ttf );
+}
+
+@font-face {
+    font-family: Fraunces;
+    src: url(Fonts/Fraunces/Fraunces144ptSoft-Regular.woff2);
+}
+
+@font-face {
+    font-family: Fraunces-Bold;
+    src: url(Fonts/Fraunces/Fraunces144ptSoft-Bold.woff2);
+}
+
+
+@font-face {
+    font-family: Gambarino;
+    src: url(Fonts/Gambarino/Gambarino-Regular.woff );
+}
+
+@font-face {
+    font-family: Oswald;
+    src: url(Fonts/Oswald/oswald-regular.woff);
+}
+
+@font-face {
+    font-family: Sentient;
+    src: url(Fonts/Sentient/Sentient-Regular.woff );
+}
+
+@font-face {
+    font-family: Sentient-Bold;
+    src: url(Fonts/Sentient/Sentient-Bold.woff );
+}
+
+@font-face {
+    font-family: Space_Grotesk;
+    src: url(Fonts/Space\ Grotesk/Sentient-Regular);
+}
+
+@font-face {
+    font-family: Space_Grotesk-Bold;
+    src: url(Fonts/Space\ Grotesk/Sentient-Bold);
+}  
